@@ -1,0 +1,3 @@
+# Remove byte compiled
+__pycache__/
+.ipynb_checkpoints/
